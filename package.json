@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-codecrafters/",
+    "build": "vite build --base=/115_html-css_o1exb/",
     "preview": "vite preview"
   },
   "devDependencies": {
